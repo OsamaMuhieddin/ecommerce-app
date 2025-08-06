@@ -137,3 +137,5 @@ dist
 node_modules/
 .env
 *.log
+noderoutes.js
+refresher.js
